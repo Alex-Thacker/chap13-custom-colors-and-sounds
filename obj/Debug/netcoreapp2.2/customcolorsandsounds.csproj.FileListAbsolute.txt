@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\bin\Debug\netcoreapp2.2\customcolorsandsounds.deps.json
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\bin\Debug\netcoreapp2.2\customcolorsandsounds.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\bin\Debug\netcoreapp2.2\customcolorsandsounds.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\bin\Debug\netcoreapp2.2\customcolorsandsounds.dll
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\bin\Debug\netcoreapp2.2\customcolorsandsounds.pdb
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.dll
+C:\Users\Alex\workspace\csharp\chap13\customcolorsandsounds\obj\Debug\netcoreapp2.2\customcolorsandsounds.pdb
